@@ -8,3 +8,4 @@ test/tmp/
 *.sw?
 *.gem
 Gemfile.lock
+*DS_Store
